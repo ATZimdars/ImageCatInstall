@@ -6,5 +6,5 @@ cd imagecat/Auto
 echo ===================== Beginning Setup ======================
 chmod +x install.sh
 chmod +x start.sh
-cmhod +x stop.sh
+chmod +x stop.sh
 ./install.sh
